@@ -1,19 +1,19 @@
+body {
+    background-color:grey
+    border-right: 750px
+    border-left: 750px
+}
 h1 {
     color: blue;
-    text-align: center;
   }
   h2 {
     color: green;
     font-style: italic;
-    text-align: center;
   }
   p {
     font-family: sans-serif;
   }
-  ul {
+  ol, ul {
     line-height: 40px;
   }
-  #style {
-      color: green;
-      font-style:italic
-  }
+  
